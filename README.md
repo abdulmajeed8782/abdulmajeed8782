@@ -9,10 +9,6 @@
 
 ---
 
-<div align="center">
-  <img src="./assets/banner.svg" alt="Banner" width="100%" />
-</div>
-
 ## 🌟 About Me
 
 ```javascript
